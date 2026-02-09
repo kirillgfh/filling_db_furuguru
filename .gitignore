@@ -1,2 +1,5 @@
 /venv
 test.txt
+.env
+.env.local
+.env.*.local
