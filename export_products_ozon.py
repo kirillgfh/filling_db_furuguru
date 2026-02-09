@@ -75,7 +75,7 @@ def to_float_safe(v: Any) -> Optional[float]:
 
 def extract_items_from_attributes_response(data: Any) -> List[Dict[str, Any]]:
     """
-    Для /v4/product/info/attributes у тебя формат:
+    Для /v4/product/info/attributes формат:
     {"result": [ {...}, {...} ]}
     Но на всякий случай поддержим и {"result":{"items":[...]}} и {"items":[...]}
     """
