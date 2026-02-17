@@ -1,0 +1,429 @@
+{
+  "cluster_type": "CLUSTER_TYPE_OZON",
+  "extracted_from": "clusters",
+  "warehouses": [
+    {
+      "cluster_id": 171,
+      "cluster_name": "Саратов",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 171,
+      "cluster_name": "Саратов",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 180,
+      "cluster_name": "Пермь",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 191,
+      "cluster_name": "Невинномысск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 7,
+      "cluster_name": "Дальний Восток",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 151,
+      "cluster_name": "Новосибирск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 151,
+      "cluster_name": "Новосибирск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 151,
+      "cluster_name": "Новосибирск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 154,
+      "cluster_name": "Москва, МО и Дальние регионы",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 155,
+      "cluster_name": "Красноярск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 155,
+      "cluster_name": "Красноярск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 174,
+      "cluster_name": "Тверь",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 176,
+      "cluster_name": "Екатеринбург",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 176,
+      "cluster_name": "Екатеринбург",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 193,
+      "cluster_name": "Махачкала",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 12,
+      "cluster_name": "Калининград",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 16,
+      "cluster_name": "Воронеж",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 150,
+      "cluster_name": "Самара",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 150,
+      "cluster_name": "Самара",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 152,
+      "cluster_name": "Омск",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 2,
+      "cluster_name": "Санкт-Петербург и СЗО",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 2,
+      "cluster_name": "Санкт-Петербург и СЗО",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 2,
+      "cluster_name": "Санкт-Петербург и СЗО",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 2,
+      "cluster_name": "Санкт-Петербург и СЗО",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 2,
+      "cluster_name": "Санкт-Петербург и СЗО",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 148,
+      "cluster_name": "Уфа",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 170,
+      "cluster_name": "Ярославль",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 179,
+      "cluster_name": "Оренбург",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 17,
+      "cluster_name": "Краснодар",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 17,
+      "cluster_name": "Краснодар",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 17,
+      "cluster_name": "Краснодар",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 144,
+      "cluster_name": "Тюмень",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 147,
+      "cluster_name": "Ростов",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 147,
+      "cluster_name": "Ростов",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 149,
+      "cluster_name": "Казань",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 149,
+      "cluster_name": "Казань",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 149,
+      "cluster_name": "Казань",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    },
+    {
+      "cluster_id": 149,
+      "cluster_name": "Казань",
+      "warehouse_id": null,
+      "warehouse_name": null,
+      "address": null,
+      "travel_time_days": null,
+      "total_score": null
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "bad": [
+    {
+      "product_id": 3581945172,
+      "offer_id": "ЛА_C10W_12V_SV8,5-8_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3582359609,
+      "offer_id": "ЛА_C10W_24V_SV8,5-8_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3583097709,
+      "offer_id": "ЛА_C5W_12V_SV8,5-8_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3583138468,
+      "offer_id": "ЛА_C5W_24V_SV8,5-8_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3583217778,
+      "offer_id": "ЛА_C5W_12V_SV8,5-8_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3583283397,
+      "offer_id": "ЛА_C5W_24V_SV8,5-8_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3583313258,
+      "offer_id": "ЛА_C10W_12V_SV8,5-8_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3583334023,
+      "offer_id": "ЛА_C10W_24V_SV8,5-8_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3600714124,
+      "offer_id": "ЛА_WY5W_12V_W2,1х9,5d_OR_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3600832545,
+      "offer_id": "ЛА_W1,2W_12V_W2х4,6d_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3601034458,
+      "offer_id": "ЛА_WY5W_12V_W2,1х9,5d_OR_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3601052233,
+      "offer_id": "ЛА_W1,2W_24V_W2х4,6d_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3601231238,
+      "offer_id": "ЛА_W5W_12V_W2,1х9,5d_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3601241006,
+      "offer_id": "ЛА_W5W_12V_W2,1х9,5d_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3601291183,
+      "offer_id": "ЛА_W5W_24V_W2,1х9,5d_2",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    },
+    {
+      "product_id": 3601305563,
+      "offer_id": "ЛА_W5W_24V_W2,1х9,5d_10",
+      "raw_possible_fields": {
+        "sku": 0,
+        "sku_id": null,
+        "skus": null
+      }
+    }
+  ]
+}
